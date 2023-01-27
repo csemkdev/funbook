@@ -1,0 +1,19 @@
+.wordspacing {
+    letter-spacing: 4px;
+}
+
+#foota {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    color: azure;
+    letter-spacing: 4px;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.no-underline:hover {
+    text-decoration: none;
+}
